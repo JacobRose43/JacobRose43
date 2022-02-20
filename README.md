@@ -1,9 +1,3 @@
-<style>
-  .markdown-body img {
-  color: #ffffff;
-  }
-  </style>
-
 <p align=center>
   <img align=center src="https://user-images.githubusercontent.com/95928931/154857492-e33082ca-2db1-44c9-a8f2-e9ef193e15aa.png">
 </p>
