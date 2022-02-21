@@ -14,6 +14,7 @@
 <br>
 <p></p>
 <br>
+<!--
 <h1 align=center>Programming Languages, Frameworks and the Applications</h1>
 <p align=center>
   <img src="https://user-images.githubusercontent.com/95928931/154858212-714c7447-cb40-48fc-8f81-e44fa1c552ea.svg" width=5% height=5% alt="html">
@@ -31,3 +32,4 @@
   <img src="https://user-images.githubusercontent.com/95928931/154859636-e8ab013b-6834-47b3-95af-e92875113531.svg" width=5% height=5% alt="github">
   <img src="https://user-images.githubusercontent.com/95928931/154859646-917a09ce-4a95-411c-a34d-a7ec57bf1f4b.svg" width=5% height=5% alt="vscode">
 </p>
+-->
