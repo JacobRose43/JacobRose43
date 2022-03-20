@@ -1,4 +1,10 @@
 <p align=center>
+  //Currently:
+  <br>
+  <i>//My Repositories = My Learning Stuff</i>
+</p>
+
+<p align=center>
   <img align=center src="https://user-images.githubusercontent.com/95928931/154857492-e33082ca-2db1-44c9-a8f2-e9ef193e15aa.png">
 </p>
 <br>
