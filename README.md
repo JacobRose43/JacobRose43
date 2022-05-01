@@ -9,17 +9,27 @@
 </p>
 <br>
 <br>
+<hr>
 <br>
-<p align=center>
-  <img align=center src="https://github-readme-streak-stats.herokuapp.com?user=JacobRose43&theme=graywhite&hide_border=true&date_format=j%20M%5B%20Y%5D">
-</p>
+
+<div align="center">
+  <a href="https://github.com/JacobRose43?tab=repositories"><img height="180px" src="https://github-readme-streak-stats.herokuapp.com?user=JacobRose43&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D"></a>                                       <a href="https://github.com/JacobRose43?tab=repositories"><img  height="180px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobRose43&layout=compact&theme=gotham&hide_border=true"></a>
+</div>
+
 <br>
-<p align=center>
-  <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobRose43&layout=compact">
-</p>
-<br>
+<hr>
 <p></p>
 <br>
+
+<div align="center">
+  
+  
+  <a href="https://github.com/JacobRose43?tab=repositories">![Contribution](https://activity-graph.herokuapp.com/graph?username=JacobRose43&theme=gotham&hide_border=true&area=true)
+  </a>
+    
+</div>
+
+
 <!--
 <h1 align=center>Programming Languages, Frameworks and the Applications</h1>
 <p align=center>
