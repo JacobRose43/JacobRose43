@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/JacobRose43?tab=repositories"><img height="180px" src="https://github-readme-streak-stats.herokuapp.com?user=JacobRose43&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D"></a>                                       <a href="https://github.com/JacobRose43?tab=repositories"><img  height="180px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobRose43&layout=compact&theme=gotham&hide_border=true"></a>
+  <a href="https://github.com/JacobRose43?tab=repositories"><img height="180px" src="https://github-readme-streak-stats.herokuapp.com?user=JacobRose43&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D"></a>                     <a href="https://github.com/JacobRose43?tab=repositories"><img  height="180px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobRose43&layout=compact&theme=gotham&hide_border=true"></a>
 </div>
 
 <br>
