@@ -1,7 +1,8 @@
 <p align=center>
   //Currently:
   <br>
-  <i>//My Repositories = My Learning Stuff</i>
+  <!--<i>//My Repositories = My Learning Stuff</i>-->
+  <i>//Under Maintenance</i>
 </p>
 
 <p align=center>
@@ -11,11 +12,11 @@
 <br>
 <hr>
 <br>
-
+<!--
 <div align="center">
   <a href="https://github.com/JacobRose43?tab=repositories"><img height="160px" src="https://github-readme-streak-stats.herokuapp.com?user=JacobRose43&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D"></a>     <a href="https://github.com/JacobRose43?tab=repositories"><img  height="160px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobRose43&layout=compact&theme=nord&hide_border=true"></a>
 </div>
-
+-->
 <br>
 <hr>
 <p></p>
